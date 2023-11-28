@@ -19,7 +19,7 @@ class PromoSeeder extends Seeder
                 "type" => "pro",
                 "promo_name"=> "MANTAP (Maret Siap Santap)",
                 "description"=> "Bundling menu siap santap yang bikin kamu jadi lebih lahap. Dapatkan 3 pcs wingskuy beserta kentang/nasi aromatik dan segelas thai tea dengan harga spesial HANYA di bulan ini!",
-                "outdate_promo"=> "2023-03-31",
+                "outdate_promo"=> " b",
                 "detail_tutorial"=> "1. Dapat dipesan melalui online maupun offline 2. Tanpa minimum pembelian 3. Tidak dapat digabung dengan promo lain",
                 "detail_condition"=> "1. Dapat dipesan melalui online maupun offline 2. Tanpa minimum pembelian 3. Tidak dapat digabung dengan promo lain"
             ]
